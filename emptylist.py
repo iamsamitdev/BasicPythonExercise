@@ -1,17 +1,6 @@
-numbers = []
+numbers = [-1, 2, 5, 8, 10, 13]
 
-numbers.append(-1)
-numbers.append(2)
-numbers.append(5)
-numbers.append(8)
-numbers.append(10)
-numbers.append(13)
-
-names = ['Mateo', 'Danny']
-
-names.append('James')
-names.append('Thomas')
-names.append('Luke')
+names = ['Mateo', 'Danny', 'James', 'Thomas', 'Luke']
 
 print(numbers)
 print(names)
