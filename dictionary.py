@@ -22,5 +22,5 @@ for v in scores.values():
     print(v)
 
 # อ่านเฉพาะ key ทั้งหมด
-for k in scores.keys():
+for k in scores:
     print(k)

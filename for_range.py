@@ -9,5 +9,5 @@ for i in range(10, 0, -1):
 print()
 
 names = ['Mateo', 'John', 'Eric', 'Mark', 'Robert']
-for i in range(len(names)):
-    print(names[i], end=', ')
+for name in names:
+    print(name, end=', ')

@@ -1,12 +1,11 @@
 # สร้างฟังก์ชัน hello
 def hello(name):
-    print('Hello %s ' % name)
+    print(f'Hello {name} ')
 
 
 # สร้างฟังก์ชันที่มีการ return ค่า
 def area(width, height=2):
-    c = width * height
-    return c
+    return width * height
 
 
 # เรียกใช้ฟังก์ชัน hello

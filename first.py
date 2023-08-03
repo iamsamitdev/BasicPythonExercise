@@ -4,7 +4,7 @@ print("สวัสดีภาษาไพทอน")
 
 # การรับค่าในภาษา python
 name = input("กรุณาป้อนชื่อของคุณ: ")
-print("สวัสดีคุณ " + name)
+print(f"สวัสดีคุณ {name}")
 
 print(2+8)
 print("\tHello World")
